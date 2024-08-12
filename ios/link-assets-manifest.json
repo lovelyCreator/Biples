@@ -1,0 +1,177 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Neue-Metana.otf",
+      "sha1": "be9c48fe2d4ac1938bac0fc3cf440f9db43ddbc4"
+    },
+    {
+      "path": "assets/fonts/NeueMetana-Bold.otf",
+      "sha1": "be9c48fe2d4ac1938bac0fc3cf440f9db43ddbc4"
+    },
+    {
+      "path": "assets/fonts/NeueMetana-Regular.otf",
+      "sha1": "2921a8cd21eb493317c7d9f875524f7c179a27a4"
+    },
+    {
+      "path": "assets/fonts/NeueMetanaNext-SemiBold.otf",
+      "sha1": "33a447c88e63c85db7568a7cba65836c74125675"
+    },
+    {
+      "path": "assets/fonts/NeueMetanaNextOutline-Black.otf",
+      "sha1": "186870764e00e0a981abfe549767fbb816182a49"
+    },
+    {
+      "path": "assets/fonts/Poppins-Black.ttf",
+      "sha1": "645e04c53c6b5b35bce654a811ebce16af8aa721"
+    },
+    {
+      "path": "assets/fonts/Poppins-BlackItalic.ttf",
+      "sha1": "be4ef2aac7775a4b0179c0ecfce6cea8f7783f63"
+    },
+    {
+      "path": "assets/fonts/Poppins-Bold.ttf",
+      "sha1": "875cf0cecd647bcf22e79d633d868c1b1ec98dfa"
+    },
+    {
+      "path": "assets/fonts/Poppins-BoldItalic.ttf",
+      "sha1": "6de8952ca08d27ee77f57347d2cef4b4e26aa78f"
+    },
+    {
+      "path": "assets/fonts/Poppins-ExtraBold.ttf",
+      "sha1": "4b5c0750f073abd576413a0898d3b95adaf199c8"
+    },
+    {
+      "path": "assets/fonts/Poppins-ExtraBoldItalic.ttf",
+      "sha1": "94d3ee3acdbd00e37a715a25f2b5237666b5b8a3"
+    },
+    {
+      "path": "assets/fonts/Poppins-ExtraLight.ttf",
+      "sha1": "85af6582a7e6155917c605f9d3fed68c02b23b06"
+    },
+    {
+      "path": "assets/fonts/Poppins-ExtraLightItalic.ttf",
+      "sha1": "6fa0418f91032680d2d8fe4843009f2c80faa61d"
+    },
+    {
+      "path": "assets/fonts/Poppins-Italic.ttf",
+      "sha1": "e2bfcd56016c3c915221ef1c5fc1a17b0776eb91"
+    },
+    {
+      "path": "assets/fonts/Poppins-Light.ttf",
+      "sha1": "e247a92158e112f8bf7b638c8d95381d66b00dbb"
+    },
+    {
+      "path": "assets/fonts/Poppins-LightItalic.ttf",
+      "sha1": "f76102b361e705751a83b7b22fe954daf1f27dd4"
+    },
+    {
+      "path": "assets/fonts/Poppins-Medium.ttf",
+      "sha1": "283f21b44efbdbf276ba802be2d949a36bbc4233"
+    },
+    {
+      "path": "assets/fonts/Poppins-MediumItalic.ttf",
+      "sha1": "b592c62fdf88c40cfd0f031bba6423b1d4430472"
+    },
+    {
+      "path": "assets/fonts/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "assets/fonts/Poppins-SemiBold.ttf",
+      "sha1": "8a4ace9392d06bcb7f8ea2f5169b07e4c383a90d"
+    },
+    {
+      "path": "assets/fonts/Poppins-SemiBoldItalic.ttf",
+      "sha1": "0c8bed0a5942b2388d36b11c115685d9f01700b0"
+    },
+    {
+      "path": "assets/fonts/Poppins-Thin.ttf",
+      "sha1": "09ba4dcd5509c8085bf88c665dcc51cbdfced27b"
+    },
+    {
+      "path": "assets/fonts/Poppins-ThinItalic.ttf",
+      "sha1": "fb8fccca21550e71135f92bbaf8a2e8a12c90465"
+    },
+    {
+      "path": "assets/fonts/TT Firs Neue Trial Black Italic.ttf",
+      "sha1": "b5446840ed6b7eef6ac19171724741fd8c2a1cbb"
+    },
+    {
+      "path": "assets/fonts/TT Firs Neue Trial Black.ttf",
+      "sha1": "ad751adfbe9771047c4a32bac1b96aebdcc086db"
+    },
+    {
+      "path": "assets/fonts/TT Firs Neue Trial Bold Italic.ttf",
+      "sha1": "eed9e9b785bec1ee94a9bb3cddaafbe571729380"
+    },
+    {
+      "path": "assets/fonts/TT Firs Neue Trial Bold.ttf",
+      "sha1": "2a2063b7a4125b2d6a4695afda99d82b58ba9317"
+    },
+    {
+      "path": "assets/fonts/TT Firs Neue Trial DemiBold Italic.ttf",
+      "sha1": "70f92bb221451c8510dc124d7c7c5517e55ecaed"
+    },
+    {
+      "path": "assets/fonts/TT Firs Neue Trial DemiBold.ttf",
+      "sha1": "d69d2ccada9e12dd8758f15506bf20b43569a435"
+    },
+    {
+      "path": "assets/fonts/TT Firs Neue Trial ExtraBold Italic.ttf",
+      "sha1": "f5ebf2da2fde103250bbf42ef9de9c62e5ef9b23"
+    },
+    {
+      "path": "assets/fonts/TT Firs Neue Trial ExtraBold.ttf",
+      "sha1": "dbaa4886999d054a031eb6f166c896e1905aae0e"
+    },
+    {
+      "path": "assets/fonts/TT Firs Neue Trial ExtraLight Italic.ttf",
+      "sha1": "37f72c827158b70fe7baa62abdced111ba20d000"
+    },
+    {
+      "path": "assets/fonts/TT Firs Neue Trial ExtraLight.ttf",
+      "sha1": "31397a2f75dbfa91268c02d6dff439bbc2bd877e"
+    },
+    {
+      "path": "assets/fonts/TT Firs Neue Trial Italic.ttf",
+      "sha1": "20f4945feaab62ef0f0a537f45b0cdda7da24955"
+    },
+    {
+      "path": "assets/fonts/TT Firs Neue Trial Light Italic.ttf",
+      "sha1": "dd11cf2183bf6715701baa4931fe21a844139b65"
+    },
+    {
+      "path": "assets/fonts/TT Firs Neue Trial Light.ttf",
+      "sha1": "f573c5c9d0481f13813588f4ab79b8afd2ec9432"
+    },
+    {
+      "path": "assets/fonts/TT Firs Neue Trial Medium Italic.ttf",
+      "sha1": "61d30336a4a3e598b189b0e1b22c49d234e44332"
+    },
+    {
+      "path": "assets/fonts/TT Firs Neue Trial Medium.ttf",
+      "sha1": "3cddc968a53b747034680b07247470a8c86996d1"
+    },
+    {
+      "path": "assets/fonts/TT Firs Neue Trial Regular.ttf",
+      "sha1": "042df54364d92869b192ff42c23dbb59645e5ed5"
+    },
+    {
+      "path": "assets/fonts/TT Firs Neue Trial Thin Italic.ttf",
+      "sha1": "a92b1587fba1f7b150b61a82a499efb7a8527eb7"
+    },
+    {
+      "path": "assets/fonts/TT Firs Neue Trial Thin.ttf",
+      "sha1": "6d10d7f5412899ac554e6d501c2591b2fc89f4f1"
+    },
+    {
+      "path": "assets/fonts/TT Firs Neue Trial Var Italic.ttf",
+      "sha1": "eebfd13c81fbcccfa50f8e17f127421ac378ccb1"
+    },
+    {
+      "path": "assets/fonts/TT Firs Neue Trial Var Roman.ttf",
+      "sha1": "cdc379dbc4d6487ff436cee1a149134f340c6e1c"
+    }
+  ]
+}
